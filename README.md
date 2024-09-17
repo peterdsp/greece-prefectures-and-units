@@ -17,7 +17,7 @@ This repository contains GeoJSON data files representing the prefectures and pre
 Each GeoJSON feature contains the following properties:
 - `id`: Unique identifier for the prefecture/prefecture unit.
 - `name`: Prefecture or prefecture unit name in English.
-- `name_Greek`: Prefecture or prefecture unit name in Greek.
+- `name_greek`: Prefecture or prefecture unit name in Greek.
 
 ### Example GeoJSON Feature:
 ```json
@@ -36,7 +36,7 @@ Each GeoJSON feature contains the following properties:
   "properties": {
     "id": "0106",
     "name": "Rodopis",
-    "name_Greek": "Ροδόπης"
+    "name_greek": "Ροδόπης"
   }
 }
 ```
